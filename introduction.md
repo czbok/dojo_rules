@@ -1,1 +1,3 @@
-Hello! Ruby
+*Git
+*Javascript
+*Ruby
